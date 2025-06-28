@@ -2,7 +2,6 @@
 
 ![Jihun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jihun&show_icons=true&theme=dark#gh-dark-mode-only)
 
-[![코드트리|실력진단-chl020729](https://banner.codetree.ai/v1/banner/chl020729)](https://www.codetree.ai/profiles/chl020729)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=possible)](https://solved.ac/possible)
 
 # 💪Skills

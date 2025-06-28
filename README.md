@@ -1,7 +1,5 @@
 # CHOI JI HUN
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FT3Tm&count_bg=%2311ED05&title_bg=%2318DFCB&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
-
 ![Jihun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jihun&show_icons=true&theme=dark#gh-dark-mode-only)
 
 [![코드트리|실력진단-chl020729](https://banner.codetree.ai/v1/banner/chl020729)](https://www.codetree.ai/profiles/chl020729)

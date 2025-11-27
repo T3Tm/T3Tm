@@ -5,6 +5,12 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=possible)](https://solved.ac/possible)
 
 # 💪Skills
+![Raspberrypi](https://img.shields.io/badge/Raspberrypi-A22846.svg?&style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Mqtt](https://img.shields.io/badge/mqtt-660066.svg?&style=for-the-badge&logo=mqtt&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000.svg?&style=for-the-badge&logo=flask&logoColor=white)
+![Fastapi](https://img.shields.io/badge/Fastapi-009688.svg?&style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white)
+
 ### Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
@@ -13,11 +19,7 @@
 ![Swift](https://img.shields.io/badge/Swift-F05138.svg?&style=for-the-badge&logo=swift&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=kotlin&logoColor=white)
 
-![Raspberrypi](https://img.shields.io/badge/Raspberrypi-A22846.svg?&style=for-the-badge&logo=raspberrypi&logoColor=white)
-![Mqtt](https://img.shields.io/badge/mqtt-660066.svg?&style=for-the-badge&logo=mqtt&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000.svg?&style=for-the-badge&logo=flask&logoColor=white)
-![Fastapi](https://img.shields.io/badge/Fastapi-009688.svg?&style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white)
+
 
 
 ### Tools
